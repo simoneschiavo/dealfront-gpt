@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://simone.schiavo.github.io/b2b-search-mockup/sitemap.xml
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1 
